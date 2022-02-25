@@ -77,7 +77,9 @@ body {
 
 
 .about {
-    width: 100%;    
+    width: 100%; 
+    padding-top: 50px;
+    padding-bottom: 50px;   
 }
 .about-me {
     width: 70%;
@@ -95,8 +97,11 @@ body {
 
 .projects {
     width: 100%;
-    background-color:#fefefe;
+    background-color:grey;
+    text-align: center;
+    padding-top: 50px;
     
+
 }
 
 .sample-project {
@@ -110,5 +115,7 @@ body {
     width: 450px;
     padding: 30px;
     border-radius: 10px;
+    
+    border: 2px solid black;
 }
 
