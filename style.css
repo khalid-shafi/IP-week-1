@@ -146,7 +146,24 @@ body {
     width: 48%;
     float: left;
     margin-right: 4%;
-    
+}
+.login .input:last-child{
+    margin-right: 0%;
+}
+.msg .area{
+    height: 200px;
+}
+.btn{
+    width: 250px;
+    background: #486255;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    color: #fff;
+    text-transform: uppercase;
+    margin: 0 auto;
+    cursor: pointer;
+    border-radius: 5px;
 
 }
  
