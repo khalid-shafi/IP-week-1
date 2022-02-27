@@ -119,3 +119,26 @@ body {
     border: 2px solid black;
 }
 
+.container{
+    width: 800px;
+    height: 600px;
+    margin: 50px auto;
+    box-sizing: border-box;
+}
+.container p{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 45px;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+}
+.input, .msg .area{
+   width: 100%;
+   padding: 20px;
+   box-sizing: border-box;
+   margin-bottom: 25px;
+   border: 2px solid #e9eaea;
+   font-size: 14px;
+   border-radius: 5px;
+
+}
