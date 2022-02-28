@@ -172,6 +172,9 @@ body {
 #daily-blog{
     background-image: url(https://www.searcheccentric.com/wp-content/uploads/2017/08/blogpost.jpg);
     background-position: center;
+    font-size: 20px;
+    font-family: sans-serif;
+    
     
 }
 .footer{
